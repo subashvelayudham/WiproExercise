@@ -1,0 +1,26 @@
+{
+  "firstName": "Subash",
+  "lastName": "Velayudham",
+  "email": "abcd@gmail.com",
+  "address": {
+    "street": "Manika vinaygar strret",
+    "city": "Chennai",
+    "postCode": 600039
+  },
+  "employments": [
+    {
+      "company": "Accenture",
+      "monthsOfExperience": 24,
+      "salary": 587000,
+      "startDate": "2020-01-01T00:00:00",
+      "endDate": "2022-02-02T00:00:00"
+    },
+    {
+      "company": "Wipro",
+      "monthsOfExperience": 36,
+      "salary": 1055000,
+      "startDate": "2026-02-02T00:00:00",
+      "endDate": "2024-02-02T00:00:00"
+    }
+  ]
+}
